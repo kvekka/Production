@@ -7,3 +7,9 @@ The question which needs to be solved is how to process 100 different symbols in
 
 ## Strategy to be used 
 Refer to Blitzkrieg Strategy
+  - Investment will be focused on stocks with Ann.Sharpe.Ratio > 10 
+  - Pos limit of 20000 to be made
+  - Carrying positions into holdings is barred due to capital restrictions 
+
+## Prices will be obtained from 
+
