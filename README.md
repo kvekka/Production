@@ -11,5 +11,9 @@ Refer to Blitzkrieg Strategy
   - Pos limit of 20000 to be made
   - Carrying positions into holdings is barred due to capital restrictions 
 
-## Prices will be obtained from 
+## Prices sources
+Refer to Broker's api 
+
+## RMS 
+Refer to Broker's api
 
